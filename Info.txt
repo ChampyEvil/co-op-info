@@ -14,3 +14,6 @@ PhoneNo: 0823024921
 Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
+Name: Rave
+Address: BKK
+PhoneNo: 09XXXXXXXX
