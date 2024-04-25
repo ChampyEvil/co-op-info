@@ -7,7 +7,6 @@ Name: Pond
 Address: Samut Prakan
 PhoneNo: 0969483309
 
-Example
 Name: Non
 Address: Mukdahan
 PhoneNo: 092145xxxx
@@ -78,3 +77,8 @@ Name: junior
 Address: Odds
 PhoneNo: 0847969364
 PhoneNo: 08018042XX
+
+Name: Net
+Address: Bangkok
+PhoneNo: 0650549961
+
