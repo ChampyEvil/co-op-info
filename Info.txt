@@ -3,7 +3,6 @@ Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
 
-Example
 Name: Non
 Address: Mukdahan
 PhoneNo: 092145xxxx
@@ -27,6 +26,7 @@ PhoneNo: 0820188619
 Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
+
 Name: Boss
 Address: KhonKaen
 Phone: 09565xxxxx
