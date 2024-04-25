@@ -27,6 +27,10 @@ Name: Ice
 Address: KhonKaen
 PhoneNo: 0986186023
 
+Name : Soratun
+Address :Thai
+Phone : xxxxxxxxxx
+
 Name: Rave
 Address: BKK
 PhoneNo: 09XXXXXXXX
