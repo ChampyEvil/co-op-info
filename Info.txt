@@ -15,3 +15,18 @@ Name: Kiw
 Address: Nakhon Pathom
 PhoneNo: 08480226xx
 
+Name: Alex
+Address: NakhonPanom
+PhoneNo: 0971967954
+
+Name: Twan
+Address: Khon Kaen
+PhoneNo: 0820188619
+
+Name: Ohmmy
+Address: Khon Kaen
+PhoneNo: 098-XXXXXXX
+
+Name: Rave
+Address: BKK
+PhoneNo: 09XXXXXXXX
