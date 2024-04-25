@@ -26,6 +26,10 @@ Name: Boss
 Address: KhonKaen
 Phone: 09565xxxxx
 
+Name : Soratun
+Address :Thai
+Phone : xxxxxxxxxx
+
 Name: Rave
 Address: BKK
 PhoneNo: 09XXXXXXXX
