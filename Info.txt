@@ -14,6 +14,7 @@ PhoneNo: 0971967954
 Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
+PhoneNo: 0823024921
 
 Name: Kiw
 Address: Nakhon Pathom
