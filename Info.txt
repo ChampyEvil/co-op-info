@@ -8,6 +8,15 @@ Name: Wisanu
 Address: Address:Nakhon Ratchasima
 PhoneNo: 0969507360
 
+Name: Pond
+Address: Samut Prakan
+PhoneNo: 0969483309
+
+Name: Pond
+Address: Samut Prakan
+PhoneNo: 0969483309
+
+<<<<<<< HEAD
 Name: Non
 Address: Mukdahan
 PhoneNo: 092145xxxx
