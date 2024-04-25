@@ -11,6 +11,10 @@ Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
 
+Name: Twan
+Address: Khon Kaen
+PhoneNo: 0820188619
+
 Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
