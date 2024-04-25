@@ -14,3 +14,7 @@ PhoneNo: 0823024921
 Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
+
+Name : Soratun
+Address :Thai
+Phone : xxxxxxxxxx
