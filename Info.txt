@@ -31,6 +31,10 @@ Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
 
+Name: Dew
+Address: Khon Kean
+PhoneNo: 063509XXXX
+
 Name: Tek
 Address: Mukdahan
 PhoneNo: 0653074470
