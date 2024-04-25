@@ -1,6 +1,7 @@
 Readme!!
-<<<<<<< HEAD
 Readme!!
-=======
->>>>>>> SC
+Readme!!
+Readme!!!!
+Readme!!!!
+Readme!!!!
 Readme!!
