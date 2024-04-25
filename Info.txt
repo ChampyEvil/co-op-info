@@ -2,3 +2,7 @@ Example
 Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
+
+Name: Ice
+Address: KhonKaen
+PhoneNo: 0986186023
