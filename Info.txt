@@ -3,7 +3,6 @@ Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
 
-<<<<<<< HEAD
 Name: Non
 Address: Mukdahan
 PhoneNo: 092145xxxx
@@ -33,8 +32,6 @@ Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
 
-<<<<<<< HEAD
-=======
 Name:Tor
 Address:Nakho Phathom
 Phone : 0625373842
@@ -47,7 +44,6 @@ Name: Tek
 Address: Mukdahan
 PhoneNo: 0653074470
 
->>>>>>> 250d8a8c582dafeb3c91672fd8df834cb183e2cb
 Name: Boss
 Address: KhonKaen
 Phone: 09565xxxxx
