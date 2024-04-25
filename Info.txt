@@ -25,3 +25,7 @@ PhoneNo: 098-XXXXXXX
 Name: Boss
 Address: KhonKaen
 Phone: 09565xxxxx
+
+Name: Rave
+Address: BKK
+PhoneNo: 09XXXXXXXX
