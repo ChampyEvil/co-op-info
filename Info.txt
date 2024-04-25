@@ -3,6 +3,7 @@ Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
 
+<<<<<<< HEAD
 Name: Non
 Address: Mukdahan
 PhoneNo: 092145xxxx
@@ -70,3 +71,8 @@ Phone : 088-888-8888
 Name: Pirapat
 Address: Bangkok
 PhoneNo: 08018042XX
+=======
+Name: Net
+Address: Bangkok
+PhoneNo: 0650549961
+>>>>>>> my-doc
