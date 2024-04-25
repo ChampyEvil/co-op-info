@@ -69,6 +69,14 @@ Address : KMITL
 IG : peerapat.suk 
 Phone : 088-888-8888
 
+Name: aomsin
+Address: Bangkok
+PhoneNo: 0988993238
+
+Name: Pirapat
+Address: Bangkok
+PhoneNo: 0801804277
+
 Name: Pirapat
 Address: Bangkok
 PhoneNo: 0801804277
