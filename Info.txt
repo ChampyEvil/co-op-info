@@ -3,14 +3,9 @@ Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
 
-
-Name: Wisanu
-Address: Address:Nakhon Ratchasima
-PhoneNo: 0969507360
-
-Name: Pond
-Address: Samut Prakan
-PhoneNo: 0969483309
+Name: A
+Address: Chachoengsao
+PhoneNo: 089xxxxxxx
 
 Name: Pond
 Address: Samut Prakan
