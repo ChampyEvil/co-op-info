@@ -44,6 +44,10 @@ Name: Boss
 Address: KhonKaen
 Phone: 09565xxxxx
 
+Name: Ice
+Address: KhonKaen
+PhoneNo: 0986186023
+
 Name : Soratun
 Address :Thai
 Phone : xxxxxxxxxx
