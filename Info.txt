@@ -6,3 +6,15 @@ PhoneNo: 0823024921
 Name: Pond
 Address: Samut Prakan
 PhoneNo: 0969483309
+
+Name: Alex
+Address: NakhonPanom
+PhoneNo: 0971967954
+
+Name: Champ
+Address: Nonthaburi
+PhoneNo: 0823024921
+
+Name: Ohmmy
+Address: Khon Kaen
+PhoneNo: 098-XXXXXXX
