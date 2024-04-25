@@ -18,3 +18,7 @@ PhoneNo: 0820188619
 Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
+
+Name: Tek
+Address: Mukdahan
+PhoneNo: 0653074470
