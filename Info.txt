@@ -86,3 +86,8 @@ Name: Net
 Address: Bangkok
 PhoneNo: 0650549961
 
+
+
+name: Care
+address: Chaiyaphum
+phone: 0990127303
