@@ -10,7 +10,7 @@ PhoneNo: 092145xxxx
 Name: Alex
 Address: NakhonPanom
 PhoneNo: 0971967954
-
+ 
 Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
@@ -32,6 +32,9 @@ Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
 
+Name:Tor
+Address:Nakho Phathom
+Phone : 0625373842
 Name: Dew
 Address: Khon Kean
 PhoneNo: 063509XXXX
@@ -63,3 +66,7 @@ Phone : 088-888-8888
 Name: aomsin
 Address: Bangkok
 PhoneNo: 0988993238
+
+Name: Pirapat
+Address: Bangkok
+PhoneNo: 0801804277
