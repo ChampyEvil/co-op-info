@@ -84,7 +84,6 @@ PhoneNo: 0801804277
 Name: junior 
 Address: Odds
 PhoneNo: 0847969364
-PhoneNo: 08018042XX
 
 dsasadsadas
 Name: Net
@@ -97,3 +96,4 @@ phone: 0990127303
 
 
 พี่แชมป์สุดหล่ออิอิ
+พวกเรารักพี่แชมป์
