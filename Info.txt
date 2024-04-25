@@ -15,6 +15,10 @@ Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
 
+Name: Kiw
+Address: Nakhon Pathom
+PhoneNo: 08480226xx
+
 Name: Alex
 Address: NakhonPanom
 PhoneNo: 0971967954
@@ -26,6 +30,14 @@ PhoneNo: 0820188619
 Name: Ohmmy
 Address: Khon Kaen
 PhoneNo: 098-XXXXXXX
+
+Name: Dew
+Address: Khon Kean
+PhoneNo: 063509XXXX
+
+Name: Tek
+Address: Mukdahan
+PhoneNo: 0653074470
 
 Name: Boss
 Address: KhonKaen
@@ -42,3 +54,8 @@ Phone : xxxxxxxxxx
 Name: Rave
 Address: BKK
 PhoneNo: 09XXXXXXXX
+
+Name : Peerapat Sukkasem
+Address : KMITL
+IG : peerapat.suk 
+Phone : 088-888-8888
