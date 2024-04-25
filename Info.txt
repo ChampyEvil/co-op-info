@@ -3,12 +3,11 @@ Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
 
-<<<<<<< HEAD
 Example
 Name: Non
 Address: Mukdahan
 PhoneNo: 092145xxxx
-=======
+
 Name: Alex
 Address: NakhonPanom
 PhoneNo: 0971967954
@@ -16,4 +15,3 @@ PhoneNo: 0971967954
 Name: Champ
 Address: Nonthaburi
 PhoneNo: 0823024921
->>>>>>> bfbca6fb87837f916ed74e3cee15f61098c9a0fd
