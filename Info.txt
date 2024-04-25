@@ -7,3 +7,11 @@ PhoneNo: 0823024921
 Name: Wisanu
 Address: Address:Nakhon Ratchasima
 PhoneNo: 0969507360
+
+Name: Alex
+Address: NakhonPanom
+PhoneNo: 0971967954
+
+Name: Champ
+Address: Nonthaburi
+PhoneNo: 0823024921
