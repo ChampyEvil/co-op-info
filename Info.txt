@@ -71,6 +71,11 @@ Phone : 088-888-8888
 
 Name: Pirapat
 Address: Bangkok
+PhoneNo: 0801804277
+
+Name: junior 
+Address: Odds
+PhoneNo: 0847969364
 PhoneNo: 08018042XX
 
 Name: Net
