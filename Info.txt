@@ -6,3 +6,11 @@ PhoneNo: 0823024921
 Name: aomsin
 Address: Bangkok
 PhoneNo: 0988993238
+
+Name: dollar
+Address: Bangkok
+PhoneNo: 09xxxxxxxx
+
+Name: intrira
+Address: Bangkok
+PhoneNo: 08xxxxxxxx
